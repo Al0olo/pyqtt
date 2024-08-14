@@ -1,7 +1,5 @@
-[![PyPI version](https://badge.fury.io/py/pyqtt.svg)](https://badge.fury.io/py/pyqtt)
-[![build status](https://github.com/wialon/pyqtt/actions/workflows/python-package.yml/badge.svg)](https://github.com/github/wialon/pyqtt/workflows/python-package.yml/badge.svg)
+[![PyPI version](https://badge.fury.io/py/pyqtt.svg)](https://badge.fury.io/py/pyqttaa)
 [![Python versions](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-brightgreen)](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-brightgreen)
-[![codecov](https://codecov.io/gh/wialon/pyqtt/branch/master/graph/badge.svg)](https://codecov.io/gh/wialon/pyqtt)
 
 
 ### pyqtt: Python async MQTT client implementation.
