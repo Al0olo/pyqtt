@@ -12,7 +12,7 @@ __copyright__ = ("Copyright 2024-%d, Al0olo; " % datetime.datetime.now().year,)
 __credits__ = [
     "Abdullah Farag",
 ]
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 
 
 __all__ = [
