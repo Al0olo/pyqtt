@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pyqtt-al0olo
-Version: 0.0.1
+Version: 0.0.2
 Summary: Client for MQTT protocol
 Home-page: https://github.com/al0olo/pyqtt
 Author: Abdullah Farag
