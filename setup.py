@@ -16,7 +16,7 @@ if sys.version_info >= (3, 4):
     extra["convert_2to3_doctests"] = ["README.md"]
 
 CLASSIFIERS = [
-    "Development Status :: 5 - Production/Stable",
+    "Development Status :: 1 - Production/Stable",
     "Intended Audience :: Developers",
     "License :: OSI Approved :: MIT License",
     "Natural Language :: English",
@@ -54,9 +54,9 @@ setup(
     author=pyqtt.__author__,
     author_email=pyqtt.__email__,
     license='MIT',
-    url="https://github.com/wialon/pyqtt",
+    url="https://github.com/al0olo/pyqtt",
     packages=find_packages(exclude=['examples', 'tests']),
-    download_url="https://github.com/wialon/pyqtt",
+    download_url="https://github.com/al0olo/pyqtt",
     classifiers=CLASSIFIERS,
     keywords=KEYWORDS,
     zip_safe=True,
