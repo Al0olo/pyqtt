@@ -10,7 +10,7 @@
 
 The latest stable version is available in the Python Package Index (PyPi) and can be installed using
 ```bash
-pip install pyqtt-al0olo==0.0.1
+pip install pyqtt-al0olo==0.0.2
 ```
 
 
