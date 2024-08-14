@@ -16,7 +16,6 @@ if sys.version_info >= (3, 4):
     extra["convert_2to3_doctests"] = ["README.md"]
 
 CLASSIFIERS = [
-    "Development Status :: 1 - Production/Stable",
     "Intended Audience :: Developers",
     "License :: OSI Approved :: MIT License",
     "Natural Language :: English",
@@ -25,7 +24,7 @@ CLASSIFIERS = [
     "Topic :: Software Development :: Libraries :: Python Modules",
 ]
 
-KEYWORDS = "Gurtam MQTT client."
+KEYWORDS = "Pyqtt MQTT client."
 
 TESTS_REQUIRE = [
     "atomicwrites>=1.3.0",
@@ -46,7 +45,7 @@ TESTS_REQUIRE = [
 EXTRAS_REQUIRE = {"test": TESTS_REQUIRE}
 
 setup(
-    name="pyqtt",
+    name="pyqtt_al0olo",
     version=pyqtt.__version__,
     description="Client for MQTT protocol",
     long_description=long_description,
